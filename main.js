@@ -137,7 +137,7 @@ var curios = [
     name: 'Alchemy Table',
     src: 'Images/Curios/Ruins/alchemy-table.png',
     provsrc: 'Images/Provisions/medicinal-herbs.png',
-    message: 'Gold/Gems x2(100%)'
+    message: 'Gold/Gems x2(100%). With torch: Increase Light Meter to 100'
   },
   {
     id: '12',
@@ -263,7 +263,7 @@ var curios = [
     name: 'Rack of Blades',
     src: 'Images/Curios/Warrens/rack-of-blades.png',
     provsrc: 'Images/Provisions/bandage.png',
-    message: 'Gold/Gems x2 + Food x1(100%)'
+    message: 'Gold/Gems x2 + Food x1(100%). Without cleansing: Gold/Gems x1 + Food x1(40%), Bleed(40%), Nothing(20%)'
   },
   {
     id: '30',
