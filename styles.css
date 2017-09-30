@@ -136,6 +136,7 @@ a {
 .button-box input {
   display: block;
   font-family: 'Cinzel Decorative', sans-serif;
+  font-weight: bold;
 }
 
 .logo {
@@ -204,7 +205,7 @@ a {
   z-index: 2;
   width: 66vw;
   height: 136px;
-  font-size: 1.2em;
+  font-size: 1.6em;
   color: white;
   font-family: 'Cinzel', serif;
   border: 2px gray outset;
